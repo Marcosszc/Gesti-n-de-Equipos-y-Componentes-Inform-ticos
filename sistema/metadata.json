@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestión de Equipos y Componentes Informáticos",
+  "description": "Aplicación web destinada a administrar los equipos y componentes de un laboratorio informático, con persistencia y modelado de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
