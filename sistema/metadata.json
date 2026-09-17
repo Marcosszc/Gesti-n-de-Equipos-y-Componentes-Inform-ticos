@@ -1,6 +1,0 @@
-{
-  "name": "Inventario Lab - BTI",
-  "description": "Sistema de gestión y control de inventario de equipos y componentes para laboratorio informático.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
